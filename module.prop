@@ -1,0 +1,9 @@
+id=a05_pro_alpha
+name=A05 PRO ALPHA
+version=v20.0
+versionCode=202611
+author=Johnjk-mk
+description=Professional AI Performance Controller for Ace Monster.
+axeronPlugin=10400
+webui=true
+webui_page=index.html
